@@ -3,5 +3,5 @@ numpy
 yfinance
 matplotlib
 scikit-learn
-tensorflowx
+tensorflow
 streamlit==1.33.0
